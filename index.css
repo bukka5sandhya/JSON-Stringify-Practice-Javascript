@@ -1,0 +1,9 @@
+.json-container{
+    padding:30px;
+}
+.json-heading{
+    font-family:'Roboto';
+    font-size:30px;
+    text-align:center;
+    font-weight:bold;
+}
